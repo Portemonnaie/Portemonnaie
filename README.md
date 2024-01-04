@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Portemonnaie</h1>
-<h3 align="center">Makes Fun Stuff</h3>
+<h3 align="center">Backend Dev with Linux passion.</h3>
 
-- 📚 I’m currently learning **C++**
-- 👍 Interested in **Retro-Games**🎮 and **Music**🎵
-
-<bold>See all my Socials on: <a href="https://www.pfcard.link/Portemonnaie">Profile Card</a></bold>
+<h3 align="left">Language and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
